@@ -9,7 +9,7 @@
     "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {
-    "type":"git",
+    "type":"git"
   },
   "keywords": [
     "react",
